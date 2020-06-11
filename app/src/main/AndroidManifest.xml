@@ -9,10 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".LoginActivity"></activity>
-        <activity android:name=".adminDataManagement.PreguntaDataActivity" />
-        <activity android:name=".adminDataManagement.RecomendacionDataActivity" />
-        <activity android:name=".adminDataManagement.GlosarioDataActivity" />
+        <activity android:name=".adminDataManagement.MenuAdminActivity"></activity>
+        <activity android:name=".LoginActivity" />
         <activity android:name=".commonUser.RecomendacionActivity" />
         <activity android:name=".commonUser.HistorialActivity" />
         <activity android:name=".commonUser.GlosarioActivity" />
