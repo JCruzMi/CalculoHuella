@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">HuellaCO</string>
+    <string name="prefs_file">REFERENCES_FILE_KEY</string>
 </resources>
